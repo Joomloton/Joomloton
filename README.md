@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jossua</h1>
-<h3 align="center">Cybersecurity Engineering Student from Mexico</h3>
+<h3 align="center">Cybersecurity Engineering from Mexico</h3>
 
 - 🔭 I’m currently working on **the development of an enterprise network infrastructure.**
 
 - 🌱 I’m currently learning **the golang programming language.**
 
 - 💬 Ask me about **Cisco, Python and Linux**
-
-- 📫 How to reach me **jossuaomarlopez@gmail.com**
 
 - ⚡ Fun fact **I think I'm boring when I'm not talking about technology.**
 
